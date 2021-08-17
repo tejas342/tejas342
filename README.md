@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/86593289/129704021-0e99ee9a-fdd3-40b5-97d2-085485af19a8.png)
 
-Here are some ideas to get you started:
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
 
 
 # Contact

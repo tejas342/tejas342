@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/tejas342/count.svg" />
 </p>
 
-[instagram]: https://instagram.com/sketch.sb
-[linkedin]: https://www.linkedin.com/in/shruti-bansal-798414171/
+[instagram]: https://www.instagram.com/_te_jas_/
+[linkedin]: https://www.linkedin.com/in/tejas-prajapati-571197205/
 [mail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new

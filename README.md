@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <a href="https://github.com/tejas342">
-  <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api?username=tejas342&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejas342&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas342&theme=dark&layout=compact" />
 </a>

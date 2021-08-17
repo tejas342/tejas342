@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas342&theme=dark&layout=compact" />
 </a>
-
+<br><br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tejas342/count.svg" />

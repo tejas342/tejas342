@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/_te_jas_/
 [linkedin]: https://www.linkedin.com/in/tejas-prajapati-571197205/
-[mail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new
+[mail]: tejasprajapati342@gmail.com

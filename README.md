@@ -1,19 +1,18 @@
 ![image](https://user-images.githubusercontent.com/86593289/129704021-0e99ee9a-fdd3-40b5-97d2-085485af19a8.png)
 
+# Hi there 👋🏻, I'm Tejas Prajapati.
+My name is Tejas Prajapati and I am from India. I am a technical student at Rajasthan Technical University, Kota. I really enjoy learning and exploring new things. I also enjoy Competitive Coding, UI/UX, Game development and Web Development.
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+* 🐍Python
+* 📱Canva
+* 🎮Unity
+* 🖥🖥💻💻📺
+* ![download](https://user-images.githubusercontent.com/86593289/132515193-e5f134c6-2174-48da-ac02-4624f2d40178.png) Html
 
 
-# Contact
+
+# Lets Connect 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-- <a href="mailto:tejasprajapati342@gmail.com" target="_blank">

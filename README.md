@@ -17,6 +17,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-- [<img align ="left" alt="codeSTACKr | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][mail] -->
+<a href="mailto:tejasprajapati342@gmail.com" target="_blank">
+<img align ="left" alt="codeSTACKr | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
+</a>
 <br>
 
 # GitHub Stats

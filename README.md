@@ -1,15 +1,25 @@
-![image](https://user-images.githubusercontent.com/86593289/129704021-0e99ee9a-fdd3-40b5-97d2-085485af19a8.png)
 
 # Hi there 👋🏻, I'm Tejas Prajapati.
 My name is Tejas Prajapati and I am from India. I am a technical student at Rajasthan Technical University, Kota. I really enjoy learning and exploring new things. I also enjoy Competitive Coding, UI/UX, Game development and Web Development.
 
 # Skills
 * 🐍Python
-* 📱Canva
+* 📱 Canva
 * 🎮Unity
-* 🖥🖥💻💻📺
-* ![download](https://user-images.githubusercontent.com/86593289/132515193-e5f134c6-2174-48da-ac02-4624f2d40178.png) Html
+* 💻Competitive Programming
+* <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>HTML
+* <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>CSS
+* 🍳Cooking
 
+
+# Experience
+* Google Developer Student Clubs RTU - Management Lead
+* Contributor in GirlScript Winter of Contributing
+* CodeChef RTU Chapter - Management Lead
+
+# Achievements
+* 3⭐ at CodeCHef
+* 5⭐ at HackerRank
 
 
 # Lets Connect 
